@@ -1,0 +1,6 @@
+interface:
+  display_name: "防跑偏"
+  short_description: "贯通需求理解、确认、设计、执行与验证，治理推断、方案和证据的效力"
+  default_prompt: "使用 $task-fidelity 理解并落实当前任务的需求，区分需求、推断、方案和证据，在实际执行与交付中验证要求是否得到满足。"
+policy:
+  allow_implicit_invocation: true

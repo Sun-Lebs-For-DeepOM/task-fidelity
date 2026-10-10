@@ -1,0 +1,21 @@
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*credentials*
+*secrets*
+*cookies*
+*.log
+# Private task state and transcripts
+private/
+local/
+session-logs/
+transcripts/
+downloads/
+# Generated assets and caches
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.DS_Store
+Thumbs.db
