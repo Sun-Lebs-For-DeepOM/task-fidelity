@@ -1,8 +1,8 @@
-# Validation scope — v0.1.0
+# Validation scope — v0.1.1
 
 Release date: 2026-10-10.
 
-This is the first public instruction-only release.
+This instruction-only revision uses entirely fictional activity notices, duty lists, and exhibition guides as examples. It replaces the initial tool-sharing illustration. Embedded examples in the text-governance reference were reviewed and replaced with fictional material as well.
 
 The release preparation checks:
 - Skill frontmatter and naming with the Skill Creator validator.
